@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Forex Tools</string>
+
+    <string name="toman">تومان</string>
+    <string name="dollar">دلار</string>
+    <string name="dollarRate">نرخ دلار</string>
+    <string name="initFund">سرمایه اولیه</string>
+    <string name="addFund">تزریق ماهانه</string>
+
+    <string name="y0">در ابتدا</string>
+    <string name="y3">در سال سوم</string>
+    <string name="y5">در سال پنجم</string>
+    <string name="y10">در سال دهم</string>
+
+    <string name="monthly3">سود ماهانه ۳ درصد</string>
+    <string name="monthly6">سود ماهانه ۶ درصد</string>
+    <string name="monthly9">سود ماهانه ۹ درصد</string>
+    <string name="monthly12">سود ماهانه ۱۲ درصد</string>
+    <string name="monthly15">سود ماهانه ۱۵ درصد</string>
+
+    <string name="fund3PercentProfit">سرمایه با سود ۳ درصد</string>
+    <string name="fund6PercentProfit">سرمایه با سود ۶ درصد</string>
+    <string name="fund9PercentProfit">سرمایه با سود ۹ درصد</string>
+    <string name="fund12PercentProfit">سرمایه با سود ۱۲ درصد</string>
+    <string name="fund15PercentProfit">سرمایه با سود ۱۵ درصد</string>
+    <string name="profitWithThisFund">سود با این سرمایه</string>
+</resources>
